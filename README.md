@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"></h2>
 
 <div align="center">
-<h3 align="center">I am a Back End Laravel Developer. I am currently living in Dhaka, Bangladesh and am working towards gaining global experience. My goal is to help your company grow with my skill set. 💻🚀</h3>
+<h3 align="center">I am a Back-End Laravel Developer. I am currently living in Dhaka, Bangladesh and am working towards gaining global experience. My goal is to help your company grow with my skill set. 💻🚀</h3>
 </div>
 
 <h2 align="center"></h2>
