@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in technolgy
 - 🌱 I’m currently on LAMP stack.
-- 📫 How to reach me **nayem.csevu@gmail.com**
+- 📫 Way to reach me **nayem.csevu@gmail.com**
 
 <h2 align="center"></h2>
 
