@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in technolgy
 - 🌱 I’m currently on LAMP stack.
 - 📫 Way to reach me **nayem.csevu@gmail.com**
-- 🌐 Portfolio **[https://hellonayem.com/](https://hellonayem.com/)**
+- 🌐 Portfolio **[[https://hellonayem.com/](https://cutturl.com/)](https://cutturl.com/)**
 
 <h2 align="center"></h2>
 
