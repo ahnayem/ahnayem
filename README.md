@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"></h2>
 
-- 👀 I’m interested in technolgy
-- 🌱 I’m currently on LAMP stack.
+- 👀 I’m interested in technology
+- 🌱 I’m currently on the LAMP stack.
 - 📫 Way to reach me **nayem.csevu@gmail.com**
-- 🌐 Website **https://cutturl.com/**
+- 🌐 Website **https://praysalat.com/**
 
 <h2 align="center"></h2>
 
