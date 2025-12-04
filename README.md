@@ -1,58 +1,112 @@
-<!---
-ahnayem/ahnayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Profile README – Designed for Recruiters & Open Source -->
 
-<h1 align="center">Hi there 👋, This is Abu Hasan Nayem</h1>
-<div id="badges" align="center">
+<h1 align="center">👋 Hi, I'm <span style="color:#28DDBA;">Abu Hasan Nayem</span></h1>
+
+<p align="center">
+  Backend PHP Laravel Developer • API Architect • Problem Solver  
+  <br>Building scalable systems & real-world digital products.
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/nayemcse">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:nayem.csevu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+  <a href="https://praysalat.com/">
+    <img src="https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=nayemcse&style=flat-square&color=blue" alt=""/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=nayemcse&style=for-the-badge&color=blue" />
+</p>
 
+---
 
-<h2 align="center"></h2>
+## 👨‍💻 About Me
 
-<div align="center">
-<h3 align="center">I am a Back-End Laravel Developer. I am currently living in Dhaka, Bangladesh and am working towards gaining global experience. My goal is to help your company grow with my skill set. 💻🚀</h3>
-</div>
+- 🚀 Backend Developer specializing in **PHP Laravel + MySQL**
+- 🧠 Focused on **API design**, **server optimization**, and **clean architecture**
+- 🌍 Open to international remote opportunities  
+- 🔧 Currently improving skills in DevOps, queue workers & event-driven systems  
+- 🎯 Goal: Contribute to global-scale products & impactful open-source projects  
 
-<h2 align="center"></h2>
+---
 
-- 👀 I’m interested in technology
-- 🌱 I’m currently on the LAMP stack.
-- 📫 Way to reach me **nayem.csevu@gmail.com**
-- 🌐 Website **https://praysalat.com/**
+## ⚒️ Tech Stack & Tools
 
-<h2 align="center"></h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,jquery,git,linux,postman,redis,docker" />
+</p>
 
-<div>
-  <h3 align="left">Languages and Tools:</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+---
 
-<h2 align="center"></h2>
+## 🔥 Featured Projects
 
+### ⭐ **PraySalat — Global Prayer Time Platform**  
+A modern, fast, accurate prayer timetable platform used across multiple regions.  
+Built for performance, reliability, and global scalability.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnayem&show_icons=true&theme=github_dark)
+🔗 **Live:** https://praysalat.com/  
+<!-- 🔗 **Tech:** Laravel, REST API, Cron Jobs, Queue Workers -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahnayem&theme=highcontrast&ring=28DDBA&fire=28DDBA&currStreakNum=FA8B00&border=7FCFDD)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnayem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### ⭐ **IslamicAPI — Comprehensive Islamic Data API**  
+A structured, developer-friendly API providing essential Islamic data such as prayer times, Hijri dates, duas, Quranic info, and more.  
+Designed for fast integration into mobile apps, websites, and automation systems.
 
+🔗 **Website:** https://islamicapi.com/  
+🔗 **Documentation:** https://docs.islamicapi.com/  
+<!-- 🔗 **Tech:** Laravel, Rate Limiting, API Authentication, Optimized Endpoints -->
+<!-- ---
 
+## 📊 GitHub Stats (Updated & Working)
+
+<p align="center">
+  <img src="https://github-readme-stats-zeta-five-53.vercel.app/api?username=nayemcse&show_icons=true&theme=react&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-zeta-five-53.vercel.app/api/top-langs/?username=nayemcse&layout=compact&theme=react&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nayemcse&theme=react&hide_border=true&fire=28DDBA&ring=28DDBA" />
+</p> -->
+
+---
+
+## 🏆 Achievements & Highlights
+
+- ✔ Built multiple production-ready Laravel systems  
+- ✔ Designed optimized APIs used by thousands  
+- ✔ Contributor to open-source PHP ecosystems  
+- ✔ Passionate about automation & performance tuning  
+
+---
+
+## 🤝 Open to Collaboration
+
+If you're building:
+
+- SaaS platforms  
+- Islamic or social-impact apps  
+- Scalable APIs  
+- Laravel-based backend systems  
+
+I’d love to collaborate or contribute.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** `nayem.csevu@gmail.com`  
+🌐 **Website:** https://praysalat.com  
+💼 **LinkedIn:** https://linkedin.com/in/nayemcse  
+
+---
+
+<p align="center">
+  Made with ❤️ by Nayem  
+</p>
