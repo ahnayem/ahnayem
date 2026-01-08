@@ -46,18 +46,35 @@
 
 ## 🔥 Featured Projects
 
-### ⭐ **PraySalat — Global Prayer Time Platform**  
-A modern, fast, accurate prayer timetable platform used across multiple regions.  
-Built for performance, reliability, and global scalability.
+### ⭐ **PraySalat — Global Mosque Directory & Islamic Practice Platform**
+A modern, fast, and reliable platform that helps Muslims **find mosques**, **pray on time**, and **fulfill essential Islamic obligations** anywhere in the world.
+
+PraySalat provides:
+
+* 🕌 A comprehensive **global mosque directory**
+* 🕋 **Accurate prayer times** based on location
+* 🌙 **Fasting schedules** for Ramadan and beyond
+* 💰 **Zakat calculation tools** for precise obligation assessment
+
+Built for **performance, accuracy, and global scalability**, PraySalat serves individuals, communities, and mosques across multiple regions.
 
 🔗 **Live:** https://praysalat.com/  
 <!-- 🔗 **Tech:** Laravel, REST API, Cron Jobs, Queue Workers -->
 
 ---
 
-### ⭐ **IslamicAPI — Comprehensive Islamic Data API**  
-A structured, developer-friendly API providing essential Islamic data such as prayer times, Hijri dates, duas, Quranic info, and more.  
-Designed for fast integration into mobile apps, websites, and automation systems.
+### ⭐ **IslamicAPI — Free & Comprehensive Islamic Data API**
+A powerful, developer-friendly REST API at **islamicapi.com**, empowering Islamic app and platform developers worldwide with **accurate, real-time Islamic data**.
+
+IslamicAPI provides:
+
+* 🆓 **Free API services with unlimited usage**
+* ⏰ **Prayer times API** with controlled time-range access
+* 🌙 **Fasting times API** with full monthly schedules
+* 💎 **Live gold & silver rates** with local currency conversion
+* 📚 **Well-documented RESTful endpoints** for fast and easy integration
+
+Built for **reliability, scalability, and seamless integration** into mobile apps, websites, and automation systems.
 
 🔗 **Website:** https://islamicapi.com/  
 🔗 **Documentation:** https://docs.islamicapi.com/  
