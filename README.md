@@ -103,6 +103,7 @@ I’d love to collaborate or contribute.
 
 📧 **Email:** `nayem.csevu@gmail.com`  
 🌐 **Website:** https://praysalat.com  
+🌐 **Website:** https://islamicapi.com  
 💼 **LinkedIn:** https://linkedin.com/in/nayemcse  
 
 ---
